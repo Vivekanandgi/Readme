@@ -1,6 +1,6 @@
 # Readme
-![logo](https://www.canva.com/design/DAGJJ4JqB7s/IXmpk4g8PNaWGxZrsYAH7A/edit?utm_content=DAGJJ4JqB7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-<img align="left" src="https://www.canva.com/design/DAGJJ4JqB7s/IXmpk4g8PNaWGxZrsYAH7A/edit?utm_content=DAGJJ4JqB7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+![logo]([https://www.canva.com/design/DAGJJ4JqB7s/IXmpk4g8PNaWGxZrsYAH7A/edit?utm_content=DAGJJ4JqB7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGJJ4JqB7s/Meq4559XG8P1KvI8UWtDyg/view?utm_content=DAGJJ4JqB7s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview))
+<img align="left" src="[https://www.canva.com/design/DAGJJ4JqB7s/IXmpk4g8PNaWGxZrsYAH7A/edit?utm_content=DAGJJ4JqB7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGJJ4JqB7s/Meq4559XG8P1KvI8UWtDyg/view?utm_content=DAGJJ4JqB7s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)](https://www.canva.com/design/DAGJJ4JqB7s/IXmpk4g8PNaWGxZrsYAH7A/edit?utm_content=DAGJJ4JqB7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGJJ4JqB7s/Meq4559XG8P1KvI8UWtDyg/view?utm_content=DAGJJ4JqB7s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=previe)" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Vivekanand Rai</h1>
 <h3 align="center">A passionate Programmer from India</h3>
@@ -75,9 +75,6 @@
 
 </div>
 
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<br>
 <br>
 <p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Vivekanand</a></p>
